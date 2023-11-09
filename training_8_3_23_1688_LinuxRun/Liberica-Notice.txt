@@ -1,0 +1,12 @@
+﻿Liberica JRE is used for the operation of some components of 1C:Enterprise 8.
+Liberica JRE is distributed under the GNU General Public License, version 2,
+with the Classpath Exception. The source text is available upon request
+to the technical support service by e-mail v8@1c.ru. The full text
+of the Liberica JRE licenses and included third-party components is available
+in the LibericaJDK-8-9-10-licenses.pdf file.
+
+Liberica JRE распространяется под лицензией GNU General Public License,
+version 2, with the Classpath Exception. Исходный текст доступен по запросу
+в службу технической поддержки по электронной почте v8@1c.ru. Полный текст
+лицензий Liberica JRE и включенных сторонних компонентов доступен
+в файле LibericaJDK-8-9-10-licenses.pdf
